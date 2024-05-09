@@ -1,53 +1,15 @@
 # Apple Vision Pro
-
-![Apple Vision Pro Logo](apple_vision_pro_logo.png)
+![Apple-Vision-Pro-2024-01](https://github.com/anubhav12302387/Apple_Vision_Pro_Clone_UI/assets/149222708/a64446aa-80fe-443a-8cf9-b11106a04907)
 
 ## Overview
 
 Apple Vision Pro is a web-based image processing application that provides powerful tools for enhancing and analyzing images right in your browser. Built with HTML, CSS, and JavaScript, it offers an intuitive user interface and advanced functionality for professionals and hobbyists alike.
 
-## Features
+## Screenshots
 
-- **Image Enhancement**: Improve image quality with tools like brightness adjustment, contrast enhancement, and color correction.
-- **Image Analysis**: Analyze images for object detection, image classification, and feature extraction.
-- **Batch Processing**: Streamline your workflow by processing multiple images simultaneously.
-- **Customizable Filters**: Apply artistic effects to your images using custom or pre-defined filters.
-- **Cross-platform Compatibility**: Access Apple Vision Pro from any modern web browser on desktop or mobile devices.
-
-## Interesting Features
-
-### Smart Filters
-
-Apple Vision Pro includes an array of smart filters powered by machine learning algorithms. These filters automatically adjust based on the content of the image, providing tailored enhancements for different types of scenes and subjects.
-
-### Real-time Collaboration
-
-Collaborate with team members or clients in real-time using Apple Vision Pro's collaboration feature. Share your edits or analysis results instantly, and work together seamlessly to achieve the desired outcome.
-
-### Augmented Reality Preview
-
-Experience a new dimension of image editing with Apple Vision Pro's augmented reality preview feature. Visualize your edits in real-world environments using your device's camera, allowing for precise adjustments and immediate feedback.
-
-## Installation
-
-Apple Vision Pro is a web application and does not require installation. Simply visit the [Apple Vision Pro website](https://www.applevisionpro.com) to start using the application.
-
-## Usage
-
-1. **Sign Up/Login**: If you're a new user, sign up for an account. Existing users can log in with their credentials.
-2. **Upload Image**: Upload the image you want to edit or analyze.
-3. **Edit Image**: Use the editing tools to enhance your image as desired.
-4. **Analyze Image**: Switch to the analysis tab to perform various image analysis tasks.
-5. **Save/Download**: Save your edited image or download the analysis results.
-
-## Support
-
-For any questions or assistance regarding Apple Vision Pro, please reach out to our support team at [support@applevisionpro.com](mailto:support@applevisionpro.com).
-
-## License
-
-Apple Vision Pro is licensed under the [insert license type]. See the [LICENSE](LICENSE) file for more details.
-
-## Contributing
-
-Contributions to Apple Vision Pro are welcome! If you'd like to contribute, please follow our [contribution guidelines](CONTRIBUTING.md) and submit a pull request.
+![Screenshot 2024-05-10 023824](https://github.com/anubhav12302387/Apple_Vision_Pro_Clone_UI/assets/149222708/c6a8e9ae-cfa7-4b50-967c-8e03b2198220)
+![Screenshot 2024-05-10 023853](https://github.com/anubhav12302387/Apple_Vision_Pro_Clone_UI/assets/149222708/6616b3d4-d67e-4d2e-8e95-f7e0d977fc1f)
+![Screenshot 2024-05-10 023909](https://github.com/anubhav12302387/Apple_Vision_Pro_Clone_UI/assets/149222708/2c404457-7293-4bef-bb70-c5dcc684d762)
+![Screenshot 2024-05-10 023922](https://github.com/anubhav12302387/Apple_Vision_Pro_Clone_UI/assets/149222708/35964c39-1011-4a53-af37-eb8833c5bc0a)
+![Screenshot 2024-05-10 023952](https://github.com/anubhav12302387/Apple_Vision_Pro_Clone_UI/assets/149222708/d932816d-74ba-4494-9fb0-f271b081cbc7)
+![Screenshot 2024-05-10 024006](https://github.com/anubhav12302387/Apple_Vision_Pro_Clone_UI/assets/149222708/a9d49195-4170-4d2c-912d-d53f476b426f)
