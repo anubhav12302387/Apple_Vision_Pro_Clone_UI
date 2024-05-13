@@ -5,6 +5,10 @@
 
 Apple Vision Pro is a web-based image processing application that provides powerful tools for enhancing and analyzing images right in your browser. Built with HTML, CSS, and JavaScript, it offers an intuitive user interface and advanced functionality for professionals and hobbyists alike.
 
+## Languages
+
+HTML5, CSS3, Javascript
+
 ## Screenshots
 
 ![Screenshot 2024-05-10 023824](https://github.com/anubhav12302387/Apple_Vision_Pro_Clone_UI/assets/149222708/c6a8e9ae-cfa7-4b50-967c-8e03b2198220)
